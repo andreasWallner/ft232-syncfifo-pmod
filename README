@@ -1,0 +1,39 @@
+**WIP**
+
+# iceBreaker
+
+References:
+- https://github.com/icebreaker-fpga/icebreaker
+
+# Arty-A7
+
+References:
+- https://digilent.com/reference/programmable-logic/arty-a7/reference-manual
+- https://datasheet.octopart.com/XC7K160T-1FBG676I-Xilinx-datasheet-138898721.pdf#page=70
+- https://www.xilinx.com/support/packagefiles/a7packages/xc7a35tcsg324pkg.txt
+- https://www.xilinx.com/support/packagefiles/a7packages/xc7a100tcsg324pkg.txt
+
+Pinout
+
+    JC
+    
+    U12  IO_L20P_T3_A08_D24_14         3                  14    NA            NA                  HR        NA
+    V12  IO_L20N_T3_A07_D23_14         3                  14    NA            NA                  HR        NA
+    V10  IO_L21P_T3_DQS_14             3                  14    NA            NA                  HR        NA
+    V11  IO_L21N_T3_DQS_A06_D22_14     3                  14    NA            NA                  HR        NA
+    U14  IO_L22P_T3_A05_D21_14         3                  14    NA            NA                  HR        NA
+    V14  IO_L22N_T3_A04_D20_14         3                  14    NA            NA                  HR        NA
+    T13  IO_L23P_T3_A03_D19_14         3                  14    NA            NA                  HR        NA
+    U13  IO_L23N_T3_A02_D18_14         3                  14    NA            NA                  HR        NA
+    
+    JB
+    
+    E15  IO_L11P_T1_SRCC_15            1                  15    NA            NA                  HR        NA
+    E16  IO_L11N_T1_SRCC_15            1                  15    NA            NA                  HR        NA
+    D15  IO_L12P_T1_MRCC_15            1                  15    NA            NA                  HR        NA
+    C15  IO_L12N_T1_MRCC_15            1                  15    NA            NA                  HR        NA
+    J17  IO_L23P_T3_FOE_B_15           3                  15    NA            NA                  HR        NA
+    J18  IO_L23N_T3_FWE_B_15           3                  15    NA            NA                  HR        NA
+    K15  IO_L24P_T3_RS1_15             3                  15    NA            NA                  HR        NA
+    J15  IO_L24N_T3_RS0_15             3                  15    NA            NA                  HR        NA
+
